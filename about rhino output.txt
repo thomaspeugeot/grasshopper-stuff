@@ -1,0 +1,59 @@
+Rhino 6 SR14 2019-2-12 (Public Build, 6.14.19043.12076, Git hash:master @ 7149c231e179e11960d27ac5c99c5713fe410254)
+License type: Beta, build 2019-02-12
+License details: Stand-Alone
+Expires on: 2019-03-29
+
+Apple Intel 64-bit macOS Version 10.14.3 (Build 18D109) (Physical RAM: 4Gb)
+Mac Model Identifier: MacBookPro9,1
+Machine name: MacBook Pro de Thomas
+Language: en-FR (MacOS default)
+
+NVIDIA GeForce GT 650M OpenGL Engine (OpenGL ver:4.1 NVIDIA-12.0.21 355.11.10.50.10.103)
+
+OpenGL Settings
+	Safe mode: Off
+	Use accelerated hardware modes: On
+	Redraw scene when viewports are exposed: On
+	
+	Anti-alias mode: 4x
+	Mip Map Filtering: Linear
+	Anisotropic Filtering Mode: Height
+	
+	Vendor Name: NVIDIA Corporation
+	Render version: 4.1
+	Shading Language: 4.10
+	Maximum Texture size: 16384 x 16384
+	Z-Buffer depth: 24 bits
+	Maximum Viewport size: 16384 x 16384
+	Total Video Memory: 512 MB
+	Graphics: NVIDIA GeForce GT 650M
+	Displays: Color LCD (111dpi 1x)
+	Screen size : 1440 x 900
+
+USB devices
+	Apple Inc.: Apple Internal Keyboard / Trackpad
+	Apple Computer, Inc.: IR Receiver
+	Apple Inc.: Bluetooth USB Host Controller
+	Apple Inc.: FaceTime HD Camera (Built-in)
+	Logitech: USB Receiver
+
+Bluetooth devices
+	None
+
+Third party kernel extensions
+	None
+
+Third party plugins
+	None
+
+Rhino plugins
+	/Applications/RhinoWIP.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoCycles.rhp	"RhinoCycles"	6.14.19043.12076
+	/Applications/RhinoWIP.app/Contents/PlugIns/NamedSnapshots.rhp	"Snapshots"	6.14.19043.1002
+	/Applications/RhinoWIP.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/GrasshopperPlugin.rhp	"Grasshopper"	6.14.19043.12076
+	/Applications/RhinoWIP.app/Contents/PlugIns/PanelingTools.rhp	"PanelingTools"	6.14.19043.1002
+	/Applications/RhinoWIP.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/Commands.rhp	"Commands"	6.14.19043.12076
+	/Applications/RhinoWIP.app/Contents/Frameworks/RhMaterialEditor.framework	"Renderer Development Kit"	6.14.19043.1002
+	/Applications/RhinoWIP.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RDK_EtoUI.rhp	"RDK_EtoUI"	6.14.19043.12076
+	/Applications/RhinoWIP.app/Contents/PlugIns/Displacement.rhp	"Displacement"	6.14.19043.1002
+	/Applications/RhinoWIP.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp	"IronPython"	6.14.19043.12076
+	/Applications/RhinoWIP.app/Contents/PlugIns/RhinoRender.rhp	"Rhino Render"	6.14.19043.1002
